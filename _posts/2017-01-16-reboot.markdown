@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "sudo reboot"
+date:   2017-01-16 10:35:10 -0500
+categories: general
+---
+Here we go again! Yet another reboot of this site. This time things will be different. I promise!
+
+The goal of this site is to share my experiences, thoughts, and noteworthy things related to software development. Posts will be short and to the point.
+
+Hope you enjoy!
